@@ -1,0 +1,48 @@
+4 parameters detected
+Reading in simplicial complex...
+	Reading 1818515vertices
+Max dim: 94
+Coord bounds: -2 386 -2 386 -2 386
+Done
+read in and build complex: 1.08456
+Building pseudo-Morse function...
+	 Processing 0 edges
+	 Processing 0 triangles
+Done
+building pseudo-Morse function: 3e-06
+Building filtration...
+	Inserting simplicies...done
+Done
+filtration time: 1.3e-05
+Computing persistence pairs...
+	Initializing boundary matrix...
+		Matrix size: 0
+	Initialized!
+	Computing persitence pairs...
+	Computed and sorted!
+	Counting total0 ms-pairs and sm-pairs...done!
+Done!
+Outputing persistence pairs...
+persistence time: 3.8e-05
+Writing pre_saved_data...
+Written 1818515int, 0VE pair, 0ET pair.
+Done!
+preprocess time: 1.22913
+sp2:
+build spanning tree.ve:0 et:0 unpair:0 
+Done.
+build sp tree time: 9e-06
+cri_e: 0
+#know_min:0
+#not know min:0
+retrive time: 1.2e-05
+#vert: 0
+#edge: 0
+write output time: 0.000133
+sp2 time: 0.00018
+4 parameters detected
+Reading in simplicial complex...
+	Reading 1818515vertices
+Max dim: 94
+Coord bounds: -2 386 -2 386 -2 386
+	Sorting 1818515vertices

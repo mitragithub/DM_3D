@@ -1,6 +1,7 @@
 # 3D Discrete Morse Graph Reconstruction Python Package 
 
 ## Workflow
+
 ![](assets/workflow3.png)
 
 ## I. Package Description

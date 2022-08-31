@@ -1,5 +1,8 @@
 # 3D Discrete Morse Graph Reconstruction Python Package 
 
+## Workflow
+![](assets/workflow3.png)
+
 ## I. Package Description
 
 DiMo3d is a python package meant for executing the discrete Morse graph reconstruction algorithm on 3D imaging data. The package includes functions which allow users to divide the domain into overlapping subregions, compute persistence diagrams of each subregion, generate a discrete Morse graph reconstruction for each subregion, and merge the graphs together into a final graph reconstruction of the full domain.
